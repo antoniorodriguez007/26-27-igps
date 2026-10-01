@@ -84,3 +84,6 @@ En el paso 4 nos fuimos a una nueva Branch llamada docs/modificaciones y comenza
 
 Los commits no han sido puestos por venir de otro ipgs…. se agregaran de decoración :D
 
+
+Esto es un example de un commit jaja jaja vengo del otro igps ayuda :)
+
