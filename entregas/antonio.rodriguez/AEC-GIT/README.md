@@ -82,3 +82,5 @@ PASO 4:
 
 En el paso 4 nos fuimos a una nueva Branch llamada docs/modificaciones y comenzamos a editar el archivo de texto incuyendo las fotografías de todo lo que hemos hecho hasra este punto incluyendo una descripción como la que haciendo ahorita mismo, y haciendo un commit de cada modificación con mensajes de texto incluidos, luego subiremos esto al fork remoto.
 
+Los commits no han sido puestos por venir de otro ipgs…. se agregaran de decoración :D
+
