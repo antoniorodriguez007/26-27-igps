@@ -87,3 +87,5 @@ Los commits no han sido puestos por venir de otro ipgs…. se agregaran de decor
 
 Esto es un example de un commit jaja jaja vengo del otro igps ayuda :)
 
+Porfa confie que lo hice con commits bonitos en el otro igps…. prque si fue asi...
+
